@@ -1,0 +1,120 @@
+O:8:"stdClass":7:{s:4:"file";s:19:"themes/200_theme.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:2:{i:1;a:2:{s:3:"url";s:7:"themes/";s:4:"text";s:7:"Reports";}i:0;a:2:{s:3:"url";s:12:"themes/theme";s:4:"text";s:5:"Teman";}}}}s:5:"flash";a:4:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:100:"<p><img src="http://localhost:8080/design/me/proj/htdocs/img/logo-black2.png" alt="Alt text" /></p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:11:"block/flash";}}s:6:"region";s:5:"flash";s:8:"template";s:15:"default/content";}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:28:"themes/300_design-element.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:13:"Designelement";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:21:"themes/design-element";}s:8:"previous";a:10:{s:4:"file";s:19:"themes/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduktion";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"themes/intro";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:2256:"<h1>Teman</h1>
+
+<h2>Dark</h2>
+
+<p>Ett mörkt tema med mörka nyanser av grått med en aning grönt i bakgrundsfärgen.</p>
+
+<p>Beskriv färgprofilen, typografin, designprinciper och designelement som du använt.</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #777"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #0C0D21"></div>
+
+<p>Footerfärg</p>
+
+<div class="color-example" style="background-color: #111112"></div>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #396969"></div>
+
+<h2>Dark2</h2>
+
+<p>Mitt tema jag gjorde till ett tidigare kursmoment fast jag har utökat det en hel del.</p>
+
+<p>Beskriv färgprofilen, typografin, designprinciper och designelement som du använt.</p>
+
+<p>Mörka färger, blå nyans på bakgrundsfärgen och bakgrundsbilden.</p>
+
+<p>Typsnittet jag valde till mina headers och text på webbsidan valde jag för att jag tyckte att den passade in på temat. Jag ville ha ett typsnitt som kändes &#8220;hårt&#8221; eller &#8220;tufft&#8221; och jag tycker att det fångade in den känslan väldigt bra.</p>
+
+<p>De designprinciper jag hade i åtanke när jag skapade temat var perspektiv/djup, färger och kontrast.</p>
+
+<p>Jag använde mig av olika designelement för att åstadkomma dessa. Bilden i flashsektionen &#8220;sticker&#8221; ut på skärmen och tillför en 3d-effekt och djup på sidan. Jag försökte medvetet använda mig av mycket färger på webbsidan och då huvudfärgen mörkblå som finns i bakgrunden. Också bilden högst upp på sidan är färgad blå. För att</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark2.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark2.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #777"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #0C0D21"></div>
+
+<p>Footerfärg</p>
+
+<div class="color-example" style="background-color: #111112"></div>
+";s:7:"excerpt";s:2256:"<h1>Teman</h1>
+
+<h2>Dark</h2>
+
+<p>Ett mörkt tema med mörka nyanser av grått med en aning grönt i bakgrundsfärgen.</p>
+
+<p>Beskriv färgprofilen, typografin, designprinciper och designelement som du använt.</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #777"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #0C0D21"></div>
+
+<p>Footerfärg</p>
+
+<div class="color-example" style="background-color: #111112"></div>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #396969"></div>
+
+<h2>Dark2</h2>
+
+<p>Mitt tema jag gjorde till ett tidigare kursmoment fast jag har utökat det en hel del.</p>
+
+<p>Beskriv färgprofilen, typografin, designprinciper och designelement som du använt.</p>
+
+<p>Mörka färger, blå nyans på bakgrundsfärgen och bakgrundsbilden.</p>
+
+<p>Typsnittet jag valde till mina headers och text på webbsidan valde jag för att jag tyckte att den passade in på temat. Jag ville ha ett typsnitt som kändes &#8220;hårt&#8221; eller &#8220;tufft&#8221; och jag tycker att det fångade in den känslan väldigt bra.</p>
+
+<p>De designprinciper jag hade i åtanke när jag skapade temat var perspektiv/djup, färger och kontrast.</p>
+
+<p>Jag använde mig av olika designelement för att åstadkomma dessa. Bilden i flashsektionen &#8220;sticker&#8221; ut på skärmen och tillför en 3d-effekt och djup på sidan. Jag försökte medvetet använda mig av mycket färger på webbsidan och då huvudfärgen mörkblå som finns i bakgrunden. Också bilden högst upp på sidan är färgad blå. För att</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark2.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark2.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #777"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #0C0D21"></div>
+
+<p>Footerfärg</p>
+
+<div class="color-example" style="background-color: #111112"></div>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:28:"themes/300_design-element.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:13:"Designelement";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:21:"themes/design-element";}s:8:"previous";a:10:{s:4:"file";s:19:"themes/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduktion";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"themes/intro";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:13:"Redovisningar";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:5:{s:12:"themes/index";a:9:{s:4:"file";s:19:"themes/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"themes/intro";a:9:{s:4:"file";s:19:"themes/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:12:"Introduktion";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"themes/theme";a:9:{s:4:"file";s:19:"themes/200_theme.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Teman";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:21:"themes/design-element";a:9:{s:4:"file";s:28:"themes/300_design-element.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:13:"Designelement";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:24:"themes/design-principles";a:9:{s:4:"file";s:31:"themes/400_design-principles.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:15:"Designprinciper";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:5:"Teman";}}

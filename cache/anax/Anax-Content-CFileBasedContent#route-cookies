@@ -1,0 +1,8 @@
+O:8:"stdClass":7:{s:4:"file";s:10:"cookies.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:3:{s:5:"flash";a:4:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:100:"<p><img src="http://localhost:8080/design/me/proj/htdocs/img/logo-black2.png" alt="Alt text" /></p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:11:"block/flash";}}s:6:"region";s:5:"flash";s:8:"template";s:15:"default/content";}s:6:"latest";a:4:{s:6:"region";s:6:"footer";s:8:"template";s:17:"default/blog-list";s:4:"sort";i:2;s:4:"data";a:3:{s:10:"dateFormat";s:5:"j F Y";s:4:"meta";a:9:{s:5:"route";s:18:"block/footer-col-1";s:4:"type";s:3:"toc";s:5:"items";i:3;s:10:"totalItems";i:0;s:11:"currentPage";i:1;s:10:"totalPages";i:1;s:11:"nextPageUrl";N;s:15:"previousPageUrl";N;s:14:"displayedItems";i:0;}s:3:"toc";a:0:{}}}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:63:"<h1>About cookies</h1>
+
+<p>This site does not use cookies.</p>
+";s:7:"excerpt";s:63:"<h1>About cookies</h1>
+
+<p>This site does not use cookies.</p>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:13:"About cookies";}}

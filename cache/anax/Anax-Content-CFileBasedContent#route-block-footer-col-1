@@ -1,0 +1,15 @@
+O:8:"stdClass":7:{s:4:"file";s:21:"block/footer-col-1.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:1;s:7:"tocable";b:0;s:5:"views";a:1:{s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:2:{s:7:"content";s:371:"<h2>Latest posts</h2>
+
+<ul>
+<li><a href="http://localhost:8080/design/me/proj/htdocs/blogg/paris-2017-11-20">Paris 2017-11-20</a></li>
+<li><a href="http://localhost:8080/design/me/proj/htdocs/blogg/fan-photo-2017-11-19">Fan photo from Moscow show</a></li>
+<li><a href="http://localhost:8080/design/me/proj/htdocs/blogg/moscow-2017-11-15">Moscow 2017-11-15</a></li>
+</ul>
+";s:7:"excerpt";s:371:"<h2>Latest posts</h2>
+
+<ul>
+<li><a href="http://localhost:8080/design/me/proj/htdocs/blogg/paris-2017-11-20">Paris 2017-11-20</a></li>
+<li><a href="http://localhost:8080/design/me/proj/htdocs/blogg/fan-photo-2017-11-19">Fan photo from Moscow show</a></li>
+<li><a href="http://localhost:8080/design/me/proj/htdocs/blogg/moscow-2017-11-15">Moscow 2017-11-15</a></li>
+</ul>
+";}}}s:11:"frontmatter";a:1:{s:5:"title";s:12:"Latest posts";}}

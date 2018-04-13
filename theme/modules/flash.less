@@ -1,0 +1,24 @@
+.inner-wrap-flash {
+    .column(12);
+    max-width: 100%;
+}
+
+.flash-wrap {
+    // .column(12);
+    @height: @magicNumber * 13;
+    img {
+        // width: @gridWidth;
+        // height: @height;
+    }
+    // height: @height;
+    .calcMargin(@height);
+    margin-top: @margin / 2;
+    margin-bottom: @margin / 2;
+}
+
+
+@media screen and (max-width: 799px) {
+    .flash-wrap {
+        display: none;
+    }
+}

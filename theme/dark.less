@@ -1,0 +1,144 @@
+/** 
+* Anax Flat theme.
+*/
+@import url(base.less);
+
+@back_color: #ccc;
+@navbar_color: transparent;
+@footer_color: #transparent;
+@contrasted_text_color: #000;
+@text_color: #000;
+@link_color: darken(@text_color, 30%);
+@accent_color: #555;
+@code_bg: #222;
+
+
+@fontFamilyHeadings:  @fontFamilyArial;
+@fontFamilyBody:      'Roboto', sans-serif;
+@fontFamilyCode:      @fontFamilyMonospace;
+
+html {
+    background-color: @back_color;
+    color: @text_color;
+}
+body {
+    font-family: @fontFamilyBody;
+    a {
+        color: @link_color;
+    }
+}
+.outer-wrap-flash {
+    display: none;
+}
+.inner-wrap-header {
+    background-color: @navbar_color;
+
+    .site-logo-text {
+        .column(3);
+        a {
+            color: @text_color;
+        }
+    }
+
+    .navbar2 {
+        .column(12);
+        text-align: center;
+        ul li a {
+            color: @text_color;
+            &:hover {
+                background-color: lighten(@navbar_color, 10%);
+            }
+        }
+    }
+}
+
+body {
+    h1 {
+        border-bottom: 10px solid @accent_color;
+    }
+    code {
+        background-color: @code_bg;
+    }
+}
+
+.inner-wrap-footer {
+    background-color: @footer_color;
+    color: @contrasted_text_color;
+    a {
+        color: @link_color;
+    }
+}
+
+.color-example {
+    border: 1px solid #000;
+    width: 50px;
+    height: 50px;
+}
+
+.inner-wrap-footer {
+    .column(12);
+    max-width: 100%;
+    img {
+        width: 100%;
+        padding: 24px;
+        box-sizing: border-box;
+        max-width: 600px;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    body {
+        overflow-y: auto;
+        overflow-x: hidden;
+        h1 {
+            font-size: 2em;
+        }
+        h2 {
+            font-size: 1.5em;
+        }
+        h1,
+        h2,
+        h3 {
+            -webkit-hyphens: auto;
+            -moz-hyphens: auto;
+            -ms-hyphens: auto;
+            hyphens: auto;
+        }
+
+        .outer-wrap-header {
+            .row();
+        }
+        .inner-wrap-header .logo-1 {
+            display: none;
+        }
+        .header {
+            height: @magicNumber * 3;
+            width: 100%;
+            .site-logo-text {
+                top: 0;
+                padding: @magicNumber / 2;
+            }
+        }
+
+        .flash-wrap {
+            display: block;
+            img {
+                width: 100%;
+            }
+        }
+
+        .inner-wrap-main {
+            white-space: normal;
+            padding: @magicNumber * 4 @magicNumber;
+        }
+
+        .outer-wrap-main,
+        .outer-wrap-footer,
+        .outer-wrap-flash {
+            .row();
+        }
+        .rm-mobile a:focus {
+            background-color: #000;
+        }
+    }
+}

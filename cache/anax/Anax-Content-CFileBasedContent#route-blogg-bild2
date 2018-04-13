@@ -1,0 +1,93 @@
+O:8:"stdClass":7:{s:4:"file";s:18:"blogg/104_bild2.md";s:7:"section";s:3:"104";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:6:"erjh17";a:5:{s:4:"name";s:14:"Eric Johansson";s:4:"mail";s:21:"erjh17@student.bth.se";s:7:"acronym";s:6:"erjh17";s:3:"url";s:13:"author/erjh17";s:6:"byline";s:413:"<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/me-small.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/me-small.jpg?w=100&h=100" alt=""/></a>
+
+</figure>
+
+<p><a href="https://github.com/Graudusk">Eric Johansson</a> studerar på Blekinge tekniska Högskola på kursen Webbprogrammering 120p Distans. Tidigare jobbade han på ett IT-företag i Kristianstad.</p>
+";}}s:9:"published";s:10:"2017-12-06";s:8:"category";a:1:{s:11:"dagens bild";a:1:{s:3:"key";s:11:"dagens bild";}}s:7:"content";s:1468:"<h1>Ungerns parlamentsbyggnad</h1>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg" alt=""/></a>
+
+</figure>
+
+<p>Ungerns parlamentsbyggnad i Budapest.</p>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg?a=15,25,35,25&cf&convolve=sharpen" alt=""/></a>
+
+</figure>
+
+<p>Kupolen på byggnaden.</p>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg?a=50,20,0,0&cf" alt=""/></a>
+
+</figure>
+
+<p>En del av ingången och gården framför byggnaden.</p>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg?f=grayscale" alt=""/></a>
+
+</figure>
+
+<p>Bilden togs med min Huawei Y6 Pro Mobilkamera, utan blixt, 0x inzoomning, på en promenad längs Donau. Jag tog bilden för att byggnaden var otroligt vacker.</p>
+";s:7:"excerpt";s:1468:"<h1>Ungerns parlamentsbyggnad</h1>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg" alt=""/></a>
+
+</figure>
+
+<p>Ungerns parlamentsbyggnad i Budapest.</p>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg?a=15,25,35,25&cf&convolve=sharpen" alt=""/></a>
+
+</figure>
+
+<p>Kupolen på byggnaden.</p>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg?a=50,20,0,0&cf" alt=""/></a>
+
+</figure>
+
+<p>En del av ingången och gården framför byggnaden.</p>
+
+<figure class="figure w50 center">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/24167410_10155893448743767_334991838_o.jpg?f=grayscale" alt=""/></a>
+
+</figure>
+
+<p>Bilden togs med min Huawei Y6 Pro Mobilkamera, utan blixt, 0x inzoomning, på en promenad längs Donau. Jag tog bilden för att byggnaden var otroligt vacker.</p>
+";}}s:5:"flash";a:4:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:474:"<p><img src="http://localhost:8080/design/me/proj/htdocs/img/logo-black2.png" alt="Alt text" /></p>
+
+<style>
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  overflow: auto;
+  -webkit-perspective: 1px;
+          perspective: 1px;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+}
+
+body, body * {
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+}
+</style>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:11:"block/flash";}}s:6:"region";s:5:"flash";s:8:"template";s:15:"default/content";}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:18:"blogg/105_bild3.md";s:7:"section";s:3:"105";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:19:"Kedjebron, Budapest";s:11:"publishTime";i:1512514800;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:11:"blogg/bild3";}s:8:"previous";a:10:{s:4:"file";s:18:"blogg/103_bild1.md";s:7:"section";s:3:"103";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:31:"Corvinus University of Budapest";s:11:"publishTime";i:1512514800;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:11:"blogg/bild1";}}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:0:{}}}s:11:"block-about";a:5:{s:5:"title";s:14:"Min bild blogg";s:4:"data";a:2:{s:7:"content";s:119:"<h4>Min bild blogg</h4>
+
+<p>Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}}s:11:"frontmatter";a:4:{s:6:"author";s:6:"erjh17";s:9:"published";s:10:"2017-12-06";s:8:"category";a:1:{i:0;s:11:"dagens bild";}s:5:"title";s:25:"Ungerns parlamentsbyggnad";}}

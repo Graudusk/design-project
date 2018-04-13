@@ -1,0 +1,90 @@
+O:8:"stdClass":7:{s:4:"file";s:20:"themes/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:5:{s:5:"flash";a:4:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:100:"<p><img src="http://localhost:8080/design/me/proj/htdocs/img/logo-black2.png" alt="Alt text" /></p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:11:"block/flash";}}s:6:"region";s:5:"flash";s:8:"template";s:15:"default/content";}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:31:"themes/400_design-principles.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:15:"Designprinciper";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:24:"themes/design-principles";}s:8:"previous";a:10:{s:4:"file";s:18:"themes/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:11:"themes/base";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:4:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:15:"titleBreadcrumb";s:4:"Home";s:7:"content";s:2427:"<h1>Custom</h1>
+
+<p>Baserat på ett tema jag gjorde till ett tidigare kursmoment fast jag har utökat det en hel del.</p>
+
+<p>Tanken bakom temat och designen var att har en enkel och informativ bandwebbsida där sektionerna är stora och texten tydlig. Därför hade jag centrerade och breda kolumner med en utstickande förstasida, speciellt header/flashdelen av sidan då loggan är i fokus och flashbilden är ljus och färgrik.</p>
+
+<p>Då det fiktionella bandet är ett hårdrocks- eller metalband använde jag mig av mörka färger med blå nyanser på bakgrundsbilden för att sätta stämningen och passa deras musikgenre. Flashbilden är också i blått på startsidan men skiftar i färg på olika sidor.</p>
+
+<p>Sedan försökte jag också få texten på sidan att förmedla känslan av att sidan är välkomnande och till för bandets fans.</p>
+
+<p>Typsnittet jag valde till mina headers och text på webbsidan valde jag för att jag tyckte att den passade in på temat. Jag ville ha ett typsnitt som kändes &#8220;hårt&#8221; eller &#8220;tufft&#8221; och jag tycker att det fångade in den känslan väldigt bra.</p>
+
+<p>De designprinciper jag hade i åtanke när jag skapade temat var perspektiv/djup, färger och kontrast.</p>
+
+<p>Jag använde mig av olika designelement för att åstadkomma dessa. Bilden i flashsektionen &#8220;sticker&#8221; ut på skärmen och tillför en 3d-effekt och djup på sidan.</p>
+
+<p>Jag försökte medvetet använda mig av mycket färger på webbsidan och då bl.a. bakgrunden och footern är mörka har jag försökt att skära av dessa med ljusa färger i flashsektionen, loggan och texten.</p>
+
+<p>Också bilden högst upp på sidan är färgad blå på startsidan men skiftar i grönt och rött på vissa undersidor som about och blog.</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark2.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark2.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #777"></div>
+
+<p>Textfärg</p>
+
+<div class="color-example" style="background-color: #ddd"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #0C0D21"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #1E2142"></div>
+
+<p>Footerfärg</p>
+
+<div class="color-example" style="background-color: #111112"></div>
+";s:7:"excerpt";s:2427:"<h1>Custom</h1>
+
+<p>Baserat på ett tema jag gjorde till ett tidigare kursmoment fast jag har utökat det en hel del.</p>
+
+<p>Tanken bakom temat och designen var att har en enkel och informativ bandwebbsida där sektionerna är stora och texten tydlig. Därför hade jag centrerade och breda kolumner med en utstickande förstasida, speciellt header/flashdelen av sidan då loggan är i fokus och flashbilden är ljus och färgrik.</p>
+
+<p>Då det fiktionella bandet är ett hårdrocks- eller metalband använde jag mig av mörka färger med blå nyanser på bakgrundsbilden för att sätta stämningen och passa deras musikgenre. Flashbilden är också i blått på startsidan men skiftar i färg på olika sidor.</p>
+
+<p>Sedan försökte jag också få texten på sidan att förmedla känslan av att sidan är välkomnande och till för bandets fans.</p>
+
+<p>Typsnittet jag valde till mina headers och text på webbsidan valde jag för att jag tyckte att den passade in på temat. Jag ville ha ett typsnitt som kändes &#8220;hårt&#8221; eller &#8220;tufft&#8221; och jag tycker att det fångade in den känslan väldigt bra.</p>
+
+<p>De designprinciper jag hade i åtanke när jag skapade temat var perspektiv/djup, färger och kontrast.</p>
+
+<p>Jag använde mig av olika designelement för att åstadkomma dessa. Bilden i flashsektionen &#8220;sticker&#8221; ut på skärmen och tillför en 3d-effekt och djup på sidan.</p>
+
+<p>Jag försökte medvetet använda mig av mycket färger på webbsidan och då bl.a. bakgrunden och footern är mörka har jag försökt att skära av dessa med ljusa färger i flashsektionen, loggan och texten.</p>
+
+<p>Också bilden högst upp på sidan är färgad blå på startsidan men skiftar i grönt och rött på vissa undersidor som about och blog.</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark2.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark2.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #777"></div>
+
+<p>Textfärg</p>
+
+<div class="color-example" style="background-color: #ddd"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #0C0D21"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #1E2142"></div>
+
+<p>Footerfärg</p>
+
+<div class="color-example" style="background-color: #111112"></div>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:31:"themes/400_design-principles.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:15:"Designprinciper";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:24:"themes/design-principles";}s:8:"previous";a:10:{s:4:"file";s:18:"themes/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:11:"themes/base";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:13:"Redovisningar";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:4:{s:12:"themes/intro";a:9:{s:4:"file";s:19:"themes/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Teman";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:11:"themes/base";a:9:{s:4:"file";s:18:"themes/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"themes/custom";a:9:{s:4:"file";s:20:"themes/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:24:"themes/design-principles";a:9:{s:4:"file";s:31:"themes/400_design-principles.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:15:"Designprinciper";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:4:"Home";s:5:"title";s:6:"Custom";}}

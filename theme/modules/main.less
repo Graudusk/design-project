@@ -1,0 +1,44 @@
+body {
+    font-family: 'PT sans', sans-serif;
+    margin: 0;
+    background-color: #122;
+}
+
+.main {
+    padding: 25px 50px;
+    text-align: center;
+
+    &.has-sidebar {
+        width: 67%;
+        float: left;
+    }
+
+    p {
+        margin-bottom: 30px;
+        font-size: 20px;
+    }
+}
+
+.after-main {
+    background-color: #eee;
+    padding: 50px 0;
+    .content {
+        width: 75%;
+        margin: auto;
+
+        figure {
+            display: inline-block;
+        }
+
+        p {
+            display: inline-block;
+            width: 70%;
+        }
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .logo-1 {
+        display: none;
+    }
+}

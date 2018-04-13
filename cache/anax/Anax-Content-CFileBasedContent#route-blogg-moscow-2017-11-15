@@ -1,0 +1,27 @@
+O:8:"stdClass":7:{s:4:"file";s:30:"blogg/102_moscow-2017-11-15.md";s:7:"section";s:3:"102";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:6:{s:4:"main";a:2:{s:8:"template";s:17:"default/blog-post";s:4:"data";a:6:{s:4:"meta";a:3:{s:4:"type";s:8:"toc-sort";s:7:"orderby";s:11:"publishTime";s:10:"orderorder";s:4:"desc";}s:6:"author";a:1:{s:6:"erjh17";a:5:{s:4:"name";s:11:"Olle Jensen";s:4:"mail";s:21:"ollejensen@artist.com";s:7:"acronym";s:6:"erjh17";s:3:"url";s:13:"author/erjh17";s:6:"byline";s:413:"<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/me-small.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/me-small.jpg?w=100&h=100" alt=""/></a>
+
+</figure>
+
+<p><a href="https://github.com/Graudusk">Eric Johansson</a> studerar på Blekinge tekniska Högskola på kursen Webbprogrammering 120p Distans. Tidigare jobbade han på ett IT-företag i Kristianstad.</p>
+";}}s:9:"published";s:10:"2017-11-16";s:8:"category";a:1:{s:10:"tour diary";a:1:{s:3:"key";s:10:"tour diary";}}s:7:"content";s:273:"<h1>Moscow 2017-11-15</h1>
+
+<figure class="figure right">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/crowd2.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/crowd2.jpg" alt=""/></a>
+
+</figure>
+
+<p>Taken at the show in Moscow 2017-11-15.</p>
+";s:7:"excerpt";s:273:"<h1>Moscow 2017-11-15</h1>
+
+<figure class="figure right">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/crowd2.jpg"><img src="http://localhost:8080/design/me/proj/htdocs/image/crowd2.jpg" alt=""/></a>
+
+</figure>
+
+<p>Taken at the show in Moscow 2017-11-15.</p>
+";}}s:5:"flash";a:4:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:100:"<p><img src="http://localhost:8080/design/me/proj/htdocs/img/logo-black2.png" alt="Alt text" /></p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:11:"block/flash";}}s:6:"region";s:5:"flash";s:8:"template";s:15:"default/content";}s:13:"next-previous";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";N;s:8:"previous";a:10:{s:4:"file";s:33:"blogg/101_fan-photo-2017-11-19.md";s:7:"section";s:3:"101";s:5:"level";i:2;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:26:"Fan photo from Moscow show";s:11:"publishTime";i:1511046000;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:26:"blogg/fan-photo-2017-11-19";}}}s:10:"share-this";a:3:{s:6:"region";s:4:"main";s:8:"template";s:13:"default/share";s:4:"sort";i:4;}s:11:"article-toc";a:4:{s:6:"region";s:13:"sidebar-right";s:8:"template";s:19:"default/article-toc";s:4:"sort";i:1;s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:11:"article-toc";}s:10:"articleToc";a:0:{}}}s:11:"block-about";a:5:{s:5:"title";s:10:"Tour diary";s:4:"data";a:2:{s:7:"content";s:94:"<h4>Tour diary</h4>
+
+<p>Here we upload photos from our concerts and submitted fan-photos.</p>
+";s:4:"meta";a:2:{s:4:"type";s:6:"single";s:5:"route";s:13:"./block-about";}}s:6:"region";s:13:"sidebar-right";s:8:"template";s:13:"default/block";s:4:"sort";i:0;}}s:11:"frontmatter";a:4:{s:6:"author";s:6:"erjh17";s:9:"published";s:10:"2017-11-16";s:8:"category";a:1:{i:0;s:10:"tour diary";}s:5:"title";s:17:"Moscow 2017-11-15";}}

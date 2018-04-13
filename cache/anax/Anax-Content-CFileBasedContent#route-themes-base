@@ -1,0 +1,58 @@
+O:8:"stdClass":7:{s:4:"file";s:18:"themes/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"views";a:5:{s:5:"flash";a:4:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:100:"<p><img src="http://localhost:8080/design/me/proj/htdocs/img/logo-black2.png" alt="Alt text" /></p>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:11:"block/flash";}}s:6:"region";s:5:"flash";s:8:"template";s:15:"default/content";}s:19:"next-previous-above";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:1;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:0;s:4:"meta";a:1:{s:4:"type";s:13:"next-previous";}s:4:"next";a:10:{s:4:"file";s:20:"themes/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"themes/custom";}s:8:"previous";a:10:{s:4:"file";s:19:"themes/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Teman";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"themes/intro";}}}s:4:"main";a:3:{s:4:"sort";i:2;s:4:"data";a:3:{s:4:"meta";a:1:{s:4:"type";s:8:"toc-sort";}s:7:"content";s:1449:"<h1>Base</h1>
+
+<p>Ett tema utan färger och med lite design. Det är ett väldigt enkelt tema som bygger på alla moduler som ligger i modulesmappen med typografi för vertikalt och horisontellt grid och responsivitet fast med borttagna färger och vissa bilder.</p>
+
+<p>Jag hade fontAwesome inlagt i tidigare kursmoment fanns den med i modulerna och jag har inte tagit bort den i detta tema så den finns också med i temat.</p>
+
+<p>Jag har också dolt flashsektionen helt då temat ska vara så simpelt som möjligt.</p>
+
+<p>På grund av dessa anledningar finns det ingen designprinciper eller några designelement att tala om i temat. Man kan säga att den är designad specifikt för att inte ha några så jag kunde bygga vidare på designen utan att ta hänsyn till bastemat principer och regler.</p>
+
+<p>Eftersom att gridsystemet fortfarande fungerar och bilderna på aboutsidan inte har dolts är det kanske den sidan som ser mest ut som den nya designen fast utan färger, typsnittet m.m.</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #555"></div>
+
+<p>Textfärg</p>
+
+<div class="color-example" style="background-color: #000"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #ccc"></div>
+";s:7:"excerpt";s:1449:"<h1>Base</h1>
+
+<p>Ett tema utan färger och med lite design. Det är ett väldigt enkelt tema som bygger på alla moduler som ligger i modulesmappen med typografi för vertikalt och horisontellt grid och responsivitet fast med borttagna färger och vissa bilder.</p>
+
+<p>Jag hade fontAwesome inlagt i tidigare kursmoment fanns den med i modulerna och jag har inte tagit bort den i detta tema så den finns också med i temat.</p>
+
+<p>Jag har också dolt flashsektionen helt då temat ska vara så simpelt som möjligt.</p>
+
+<p>På grund av dessa anledningar finns det ingen designprinciper eller några designelement att tala om i temat. Man kan säga att den är designad specifikt för att inte ha några så jag kunde bygga vidare på designen utan att ta hänsyn till bastemat principer och regler.</p>
+
+<p>Eftersom att gridsystemet fortfarande fungerar och bilderna på aboutsidan inte har dolts är det kanske den sidan som ser mest ut som den nya designen fast utan färger, typsnittet m.m.</p>
+
+<figure class="figure">
+<a href="http://localhost:8080/design/me/proj/htdocs/image/dark.png"><img src="http://localhost:8080/design/me/proj/htdocs/image/dark.png" alt=""/></a>
+
+</figure>
+
+<p>Accentfärg</p>
+
+<div class="color-example" style="background-color: #555"></div>
+
+<p>Textfärg</p>
+
+<div class="color-example" style="background-color: #000"></div>
+
+<p>Bakgrundsfärg</p>
+
+<div class="color-example" style="background-color: #ccc"></div>
+";}s:8:"template";s:15:"default/article";}s:19:"next-previous-below";a:4:{s:6:"region";s:4:"main";s:8:"template";s:21:"default/next-previous";s:4:"sort";i:3;s:4:"data";a:4:{s:17:"nextPreviousTitle";b:1;s:4:"meta";a:2:{s:4:"type";s:4:"copy";s:4:"view";s:19:"next-previous-above";}s:4:"next";a:10:{s:4:"file";s:20:"themes/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:13:"themes/custom";}s:8:"previous";a:10:{s:4:"file";s:19:"themes/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Teman";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;s:5:"route";s:12:"themes/intro";}}}s:3:"toc";a:3:{s:6:"region";s:12:"sidebar-left";s:8:"template";s:11:"default/toc";s:4:"data";a:3:{s:5:"title";s:13:"Redovisningar";s:4:"meta";a:1:{s:4:"type";s:8:"book-toc";}s:3:"toc";a:5:{s:12:"themes/index";a:9:{s:4:"file";s:19:"themes/000_index.md";s:7:"section";s:3:"000";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Index";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:12:"themes/intro";a:9:{s:4:"file";s:19:"themes/100_intro.md";s:7:"section";s:3:"100";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:5:"Teman";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:11:"themes/base";a:9:{s:4:"file";s:18:"themes/200_base.md";s:7:"section";s:3:"200";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:4:"Base";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:13:"themes/custom";a:9:{s:4:"file";s:20:"themes/300_custom.md";s:7:"section";s:3:"300";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:6:"Custom";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}s:24:"themes/design-principles";a:9:{s:4:"file";s:31:"themes/400_design-principles.md";s:7:"section";s:3:"400";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:1;s:5:"title";s:15:"Designprinciper";s:11:"publishTime";b:0;s:13:"sectionHeader";N;s:8:"linkable";N;}}}}}s:11:"frontmatter";a:1:{s:5:"title";s:4:"Base";}}
